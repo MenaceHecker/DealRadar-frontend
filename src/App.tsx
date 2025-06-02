@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // Keep this for @tailwind directives in index.css
+import './App.css'; 
 
 // Defines the expected structure for each product item
 interface Product {
@@ -117,7 +117,7 @@ function App() {
 
       {/* Footer (Optional) */}
       <footer className="text-center mt-12 text-gray-500 text-sm">
-        <p>&copy; {new Date().getFullYear()} DealRadar. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} DealRadar. All Joe rights reserved.</p>
       </footer>
     </div>
   );

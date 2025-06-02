@@ -36,8 +36,8 @@ function App() {
       last_scraped_timestamp: "2025-06-01T20:10:00.000Z"
     },
     {
-      url: "https://www.example.com/product/monitor-sale",
-      product_name: "27-inch 4K HDR Monitor (Flash Sale)",
+      url: "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z/ref=ast_sto_dp_puis?th=1",
+      product_name: "Apple AirPods 4",
       current_price_raw: "$449.00",
       availability: "In Stock",
       last_scraped_timestamp: "2025-06-01T18:30:00.000Z"

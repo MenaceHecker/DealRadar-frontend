@@ -37,7 +37,7 @@ function App() {
     {
       url: "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z/ref=ast_sto_dp_puis?th=1",
       product_name: "Apple AirPods 4",
-      current_price_raw: "$449.00",
+      current_price_raw: "$119.00",
       availability: "In Stock",
       last_scraped_timestamp: "2025-06-01T18:30:00.000Z"
     }

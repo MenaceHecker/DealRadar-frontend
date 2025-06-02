@@ -4,7 +4,7 @@ This is the static frontend dashboard for the DealRadar project. It's built with
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 * **React.js**: For building the user interface.
 * **TypeScript**: Adds type safety to JavaScript.
@@ -13,7 +13,7 @@ This is the static frontend dashboard for the DealRadar project. It's built with
 
 ---
 
-## 🔥 Goals
+## Goals
 
 * Create a user-friendly and responsive dashboard.
 * Practice building React components with TypeScript.
@@ -21,7 +21,7 @@ This is the static frontend dashboard for the DealRadar project. It's built with
 
 ---
 
-## 📚 Setup Instructions
+##  Setup Instructions
 
 Here's how to get your static dashboard running locally:
 

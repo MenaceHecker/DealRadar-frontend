@@ -27,7 +27,7 @@ Here's how to get your static dashboard running locally:
 
 ### 1. Project Setup
 
-Make sure you have Node.js and npm installed. Then, open your terminal and run:
+Just make sure you have Node.js and npm installed. Then, open your terminal and run:
 
 ```bash
 npx create-react-app dealradar-frontend --template typescript

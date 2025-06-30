@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css'; // Keep this for @tailwind directives in index.css
+import './App.css'; 
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
-// Defines the expected structure for each product item
+
 interface Product {
   url: string;
   product_name: string;
@@ -45,10 +45,10 @@ function App() {
   ];
   // --- End of updated static data ---
 
-  // Prepare data for the bar graph
+
   const chartData = products.map(product => ({
-    name: product.product_name.substring(0, 20) + '...', // Truncate name for chart
-    price: parseFloat(product.current_price_raw.replace(/[^0-9.-]+/g, "")) // Convert price string to number
+    name: product.product_name.substring(0, 20) + '...', 
+    price: parseFloat(product.current_price_raw.replace(/[^0-9.-]+/g, "")) 
   }));
 
   return (
